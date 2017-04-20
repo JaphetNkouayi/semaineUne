@@ -17,7 +17,7 @@ Nous allons énumèrer la liste qui nous semble essentielle pour l'apprentissage
 	* Chaise
 	* Bureau/ Table
 	* Locale
-	* ...
+	* petit dejeuner 
 
 
 2. __Esprit d'équipe:__
@@ -25,7 +25,9 @@ Nous allons énumèrer la liste qui nous semble essentielle pour l'apprentissage
 	* Persévérance
 	* Autonomie
 	* Partage d'idée/ Entre aide
-	* ...
+	* Avoir une bonne ambiance générale
+        * Garder le Sourire 
+        * .....
 
 
 3. __Pratique:__
