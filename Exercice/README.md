@@ -18,6 +18,7 @@ Nous allons énumèrer la liste qui nous semble essentielle pour l'apprentissage
 	* Bureau/ Table
 	* Locale
 	* petit dejeuner 
+	* ......
 
 
 2. __Esprit d'équipe:__
